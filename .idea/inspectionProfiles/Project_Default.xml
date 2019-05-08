@@ -1,0 +1,15 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="OnDemandImport" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="StaticImport" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="allowedClasses">
+        <set>
+          <option value="com.zacharadamian.fibonaccisequence.Controller" />
+          <option value="com.zacharadamian.fibonaccisequence.Model" />
+          <option value="com.zacharadamian.fibonaccisequence.View" />
+        </set>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
